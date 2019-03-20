@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: encryption-SL
+Version: 0.0.1
+Summary: A small encryption package
+Home-page: https://github.com/vlev02/encryption.git
+Author: Sean Lau
+Author-email: vlev02@qq.com
+License: UNKNOWN
+Description: # Encryption Package
+        
+        This is a simple encryption package. You can use
+        [Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+        to write your content.
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Win32 (MS Windows)
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: Chinese (Simplified)
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
